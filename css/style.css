@@ -1,0 +1,29 @@
+.header1{
+    margin-bottom: 80px;
+}
+.header1 img{
+    width: 100%;
+}
+.t1{
+    color: cyan;
+}
+.p1{
+    text-align: center;
+    color: brown;
+}
+.p2{
+    color: #ba00ff;
+    text-align: center;
+}
+.t2{
+    color: #00fd00;
+}
+.slogan{
+    margin: 50px 0;
+    height: 80px;
+}
+.t3{
+    color:#ffa700;
+    text-align: center;
+    font-size: 50px;
+}
